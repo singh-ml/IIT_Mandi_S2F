@@ -1,5 +1,5 @@
 # IIT_Mandi_S2F
-Skull-to-face dataset contains X-ray image of  51 individuals and their corresponding face ( face images are in vector representation).
+Skull-to-face dataset contains X-ray images of 51 individuals and their corresponding faces ( face images are in vector representation). 128-dimensional face embeddings are obtained using the DeepFace Python library and the FaceNet deep neural network model.
 ## 📖 Citation
 
 If you use this dataset in your research, please cite:
